@@ -1,0 +1,153 @@
+Category,Subcategory,Action
+Basic Physiological Actions,Breathing,Inhaling deeply
+Basic Physiological Actions,Breathing,Exhaling slowly
+Basic Physiological Actions,Breathing,Panting
+Basic Physiological Actions,Breathing,Sighing
+Basic Physiological Actions,Breathing,Holding breath
+Basic Physiological Actions,Breathing,Gasping
+Basic Physiological Actions,Breathing,Hyperventilating
+Basic Physiological Actions,Reflexes,Blinking to protect eyes
+Basic Physiological Actions,Reflexes,Coughing to clear airway
+Basic Physiological Actions,Reflexes,Sneezing to expel irritants
+Basic Physiological Actions,Reflexes,Yawning to increase oxygen
+Basic Physiological Actions,Reflexes,Hiccupping (spasmodic contractions)
+Basic Physiological Actions,Reflexes,Shivering to generate warmth
+Basic Physiological Actions,Reflexes,Sweating to cool down
+Basic Physiological Actions,Reflexes,Pupil dilation in low light
+Basic Physiological Actions,Internal Bodily Adjustments,Regulating body temperature
+Basic Physiological Actions,Internal Bodily Adjustments,Maintaining blood pressure
+Basic Physiological Actions,Internal Bodily Adjustments,Adjusting heart rate
+Basic Physiological Actions,Internal Bodily Adjustments,Balancing electrolytes
+Basic Physiological Actions,Internal Bodily Adjustments,Producing hormones
+Basic Physiological Actions,Internal Bodily Adjustments,Fighting infections
+Basic Physiological Actions,Internal Bodily Adjustments,Repairing tissues
+Basic Movement Actions,Walking,Strolling leisurely
+Basic Movement Actions,Walking,Power walking
+Basic Movement Actions,Walking,Marching in formation
+Basic Movement Actions,Walking,Sneaking quietly
+Basic Movement Actions,Walking,Striding confidently
+Basic Movement Actions,Walking,Ambling casually
+Basic Movement Actions,Walking,Hobbling with injury
+Basic Movement Actions,Walking,Tip-toeing carefully
+Basic Movement Actions,Reaching,Stretching to reach
+Basic Movement Actions,Reaching,Groping in darkness
+Basic Movement Actions,Reaching,Extending arm
+Basic Movement Actions,Reaching,Lunging forward
+Basic Movement Actions,Reaching,Reaching overhead
+Basic Movement Actions,Reaching,Reaching behind
+Basic Movement Actions,Locomotion Variations,Crawling on hands and knees
+Basic Movement Actions,Locomotion Variations,Climbing a ladder
+Basic Movement Actions,Locomotion Variations,Hopping on one foot
+Basic Movement Actions,Locomotion Variations,Skipping playfully
+Basic Movement Actions,Locomotion Variations,Sliding on ice
+Basic Movement Actions,Locomotion Variations,Waddling clumsily
+Basic Movement Actions,Locomotion Variations,Sprinting quickly
+Basic Movement Actions,Locomotion Variations,Diving headfirst
+Senses Related Actions,Seeing,Gazing intently
+Senses Related Actions,Seeing,Peeking furtively
+Senses Related Actions,Seeing,Glancing quickly
+Senses Related Actions,Seeing,Staring blankly
+Senses Related Actions,Seeing,Scanning surroundings
+Senses Related Actions,Seeing,Observing closely
+Senses Related Actions,Seeing,Witnessing an event
+Senses Related Actions,Seeing,Looking away shyly
+Senses Related Actions,Hearing,Listening attentively
+Senses Related Actions,Hearing,Eavesdropping secretly
+Senses Related Actions,Hearing,Overhearing casually
+Senses Related Actions,Hearing,Ignoring sounds
+Senses Related Actions,Hearing,Filtering out noise
+Senses Related Actions,Hearing,Concentrating on speech
+Senses Related Actions,Hearing,Detecting faint sounds
+Senses Related Actions,Hearing,Recognizing familiar voices
+Senses Related Actions,Smelling Tasting Touching,Sniffing aromas
+Senses Related Actions,Smelling Tasting Touching,Savoring flavors
+Senses Related Actions,Smelling Tasting Touching,Feeling textures
+Speech-Related Actions,Talking,Chatting casually
+Speech-Related Actions,Talking,Debating intensely
+Speech-Related Actions,Talking,Lecturing formally
+Speech-Related Actions,Talking,Gossiping secretively
+Speech-Related Actions,Talking,Confiding intimately
+Speech-Related Actions,Talking,Reporting factually
+Speech-Related Actions,Talking,Storytelling creatively
+Speech-Related Actions,Talking,Negotiating diplomatically
+Speech-Related Actions,Vocal Variations,Shouting loudly
+Speech-Related Actions,Vocal Variations,Whispering quietly
+Speech-Related Actions,Vocal Variations,Singing melodically
+Speech-Related Actions,Vocal Variations,Humming softly
+Speech-Related Actions,Vocal Variations,Groaning in pain
+Speech-Related Actions,Vocal Variations,Screaming in fear
+Speech-Related Actions,Vocal Variations,Crying sadly
+Speech-Related Actions,Vocal Variations,Laughing joyfully
+Speech-Related Actions,Non-Verbal Speech,Sign language
+Speech-Related Actions,Non-Verbal Speech,Writing notes
+Speech-Related Actions,Non-Verbal Speech,Drawing pictures
+Speech-Related Actions,Non-Verbal Speech,Texting messages
+Eating & Drinking Actions,Chewing,Munching noisily
+Eating & Drinking Actions,Chewing,Gnawing persistently
+Eating & Drinking Actions,Chewing,Crunching loudly
+Eating & Drinking Actions,Chewing,Nibbling delicately
+Eating & Drinking Actions,Chewing,Gum chewing rhythmically
+Eating & Drinking Actions,Chewing,Chewing thoughtfully
+Eating & Drinking Actions,Drinking,Gulping thirstily
+Eating & Drinking Actions,Drinking,Sipping politely
+Eating & Drinking Actions,Drinking,Chugging quickly
+Eating & Drinking Actions,Drinking,Lapping like a pet
+Eating & Drinking Actions,Drinking,Slurping noisily
+Eating & Drinking Actions,Drinking,Nursing gently
+Eating & Drinking Actions,Table Manners & Customs,Setting the table
+Eating & Drinking Actions,Table Manners & Customs,Blessing the meal
+Eating & Drinking Actions,Table Manners & Customs,Serving others first
+Eating & Drinking Actions,Table Manners & Customs,Using utensils properly
+Eating & Drinking Actions,Table Manners & Customs,Offering a toast
+Eating & Drinking Actions,Table Manners & Customs,Clearing the dishes
+Hygiene Actions,Hand Washing,Scrubbing thoroughly
+Hygiene Actions,Hand Washing,Rinsing carefully
+Hygiene Actions,Hand Washing,Drying completely
+Hygiene Actions,Hand Washing,Sanitizing frequently
+Hygiene Actions,Teeth Brushing,Flossing gently
+Hygiene Actions,Teeth Brushing,Brushing vigorously
+Hygiene Actions,Teeth Brushing,Rinsing mouthwash
+Hygiene Actions,Teeth Brushing,Scraping tongue
+Hygiene Actions,Personal Grooming,Shaving face
+Hygiene Actions,Personal Grooming,Combing hair
+Hygiene Actions,Personal Grooming,Applying makeup
+Hygiene Actions,Personal Grooming,Clipping nails
+Hygiene Actions,Personal Grooming,Taking a shower
+Hygiene Actions,Personal Grooming,Applying deodorant
+Work & Study Actions,Typing,Hunting and pecking
+Work & Study Actions,Typing,Touch typing
+Work & Study Actions,Typing,Data entry
+Work & Study Actions,Typing,Coding software
+Work & Study Actions,Typing,Writing reports
+Work & Study Actions,Reading,Skimming headlines
+Work & Study Actions,Reading,Studying textbooks
+Work & Study Actions,Reading,Researching online
+Work & Study Actions,Reading,Proofreading documents
+Work & Study Actions,Office Tasks,Attending meetings
+Work & Study Actions,Office Tasks,Managing projects
+Work & Study Actions,Office Tasks,Communicating emails
+Work & Study Actions,Office Tasks,Answering phone calls
+Social Actions,Greeting,Handshaking firmly
+Social Actions,Greeting,Hugging warmly
+Social Actions,Greeting,Bowing respectfully
+Social Actions,Greeting,Waving casually
+Social Actions,Conversing,Debating passionately
+Social Actions,Conversing,Gossiping secretively
+Social Actions,Conversing,Negotiating skillfully
+Social Actions,Conversing,Listening empathetically
+Recreation Actions,Watching TV,Channel surfing
+Recreation Actions,Watching TV,Binge-watching series
+Recreation Actions,Watching TV,Streaming movies
+Recreation Actions,Watching TV,Fast forwarding ads
+Recreation Actions,Playing Games,Strategy games
+Recreation Actions,Playing Games,Card games
+Recreation Actions,Playing Games,Video games
+Recreation Actions,Playing Games,Sports games
+Home & Cleaning Actions,Vacuuming,Cleaning carpets
+Home & Cleaning Actions,Vacuuming,Reaching corners
+Home & Cleaning Actions,Vacuuming,Emptying canister
+Home & Cleaning Actions,Vacuuming,Adjusting settings
+Home & Cleaning Actions,Cooking,Chopping vegetables
+Home & Cleaning Actions,Cooking,Stirring sauces
+Home & Cleaning Actions,Cooking,Baking desserts
+Home & Cleaning Actions,Cooking,Frying eggs
